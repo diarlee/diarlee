@@ -1,4 +1,4 @@
-# 안녕하세요. <br> 백엔드 개발자 이병수입니다. [[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lbsoo1021)](https://solved.ac/lbsoo1021/)
+# 안녕하세요. <br> 백엔드 개발자 이병수입니다. [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lbsoo1021)](https://solved.ac/lbsoo1021/)
 
  
 
