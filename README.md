@@ -1,4 +1,15 @@
-# 안녕하세요. <br> 백엔드 개발자 이병수입니다. [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lbsoo1021)](https://solved.ac/lbsoo1021/)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <h1>안녕하세요.<br>
+        백엔드 개발자 이병수입니다.</h1>
+  </div>
+  <div>
+    <a href="https://solved.ac/lbsoo1021/">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lbsoo1021" alt="Solved.ac Profile">
+    </a>
+  </div>
+</div>
+
 
  
 
