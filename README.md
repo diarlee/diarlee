@@ -1,10 +1,4 @@
 # 안녕하세요. <br> 백엔드 개발자 이병수입니다.
-<div style="text-align: right">
-<a href="https://solved.ac/lbsoo1021/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lbsoo1021" alt="Solved.ac Profile">
-</a>
-</div>
-
 
 ## 💫 About me
 
