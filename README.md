@@ -1,7 +1,7 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
     <h1>안녕하세요.<br>
-        백엔드 개발자 이병수입니다.</h1>
+    백엔드 개발자 이병수입니다.</h1>
   </div>
   <div>
     <a href="https://solved.ac/lbsoo1021/">
@@ -9,10 +9,6 @@
     </a>
   </div>
 </div>
-
-
- 
-
 
 ## 💫 About me
 
