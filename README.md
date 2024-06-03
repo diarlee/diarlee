@@ -9,8 +9,8 @@
 📖 삼성 청년 SW 아카데미(SSAFY) &nbsp; 2023.07 - 2024.06
 
 ## ⚒️ Skills
-<div style="display: flex; justify-content: space-between;">
-    <div>
+<div style="display: table; width: 100%;">
+    <div style="display: table-cell; text-align: left; width: 50%;">
         <p style="font-size: 16px"><b>Hard Skills</b></p>
             <summary>Java / Spring (Boot) &nbsp; ⭐⭐⭐⭐</summary>
             <summary>Spring Data JPA &nbsp; ⭐⭐⭐</summary>
@@ -18,7 +18,7 @@
             <summary>Python / Django &nbsp; ⭐⭐</summary>
             <summary>Tableau &nbsp; ⭐⭐</summary>
     </div>
-    <div>
+    <div style="display: table-cell; text-align: left; width: 50%;">
         <p style="font-size: 16px"><b>Soft Skills</b></p>
             <summary>책임감 &nbsp; 🌟🌟🌟🌟</summary>
             <summary>커뮤니케이션 &nbsp; 🌟🌟🌟🌟</summary>
