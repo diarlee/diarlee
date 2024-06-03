@@ -13,17 +13,17 @@
     <tr>
         <td style="vertical-align: top; text-align: left; width: 50%;">
             <p style="font-size: 16px"><b>Hard Skills</b></p>
-                <summary>Java / Spring (Boot) &nbsp; ⭐⭐⭐⭐</summary>
-                <summary>Spring Data JPA &nbsp; ⭐⭐⭐</summary>
-                <summary>SQL &nbsp; ⭐⭐⭐</summary>
-                <summary>Python / Django &nbsp; ⭐⭐</summary>
-                <summary>Tableau &nbsp; ⭐⭐</summary>
+                <span>Java / Spring (Boot) &nbsp; ⭐⭐⭐⭐</span><br>
+                <span>Spring Data JPA &nbsp; ⭐⭐⭐</span><br>
+                <span>SQL &nbsp; ⭐⭐⭐</span><br>
+                <span>Python / Django &nbsp; ⭐⭐</span><br>
+                <span>Tableau &nbsp; ⭐⭐</span>
         </td>
         <td style="vertical-align: top; text-align: left; width: 50%;">
             <p style="font-size: 16px"><b>Soft Skills</b></p>
-                <summary>책임감 &nbsp; 🌟🌟🌟🌟</summary>
-                <summary>커뮤니케이션 &nbsp; 🌟🌟🌟🌟</summary>
-                <summary>리더쉽 &nbsp; 🌟🌟🌟</summary>
+                <span>책임감 &nbsp; 🌟🌟🌟🌟</span><br>
+                <span>커뮤니케이션 &nbsp; 🌟🌟🌟🌟</span><br>
+                <span>리더쉽 &nbsp; 🌟🌟🌟</span><br>
         </td>
     </tr>
 </table>
