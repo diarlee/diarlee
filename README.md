@@ -24,8 +24,8 @@
                 <span>책임감 &nbsp; 🌟🌟🌟🌟</span><br>
                 <span>커뮤니케이션 &nbsp; 🌟🌟🌟🌟</span><br>
                 <span>리더쉽 &nbsp; 🌟🌟🌟</span><br>
-                <span></span>
-                <span></span>
+                <span>&nbsp;</span>
+                <span>&nbsp;</span>
         </td>
     </tr>
 </table>
