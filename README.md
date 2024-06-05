@@ -10,7 +10,7 @@
 <!-- 그룹 묶기 -->
 |<b>Hard</b>|<b>Soft</b>|
 |-------------|-----------------|
-| Java / Spring (Boot) &nbsp; ⭐⭐⭐ &nbsp;&nbsp; <br> Spring Data JPA &nbsp; ⭐⭐ <br> SQL &nbsp; ⭐⭐⭐ <br> Python / Django &nbsp; ⭐⭐ <br> Tableau &nbsp; ⭐⭐  | 책임감 &nbsp; 🌟🌟🌟🌟 <br> 커뮤니케이션 &nbsp; 🌟🌟🌟🌟 <br> 리더쉽 &nbsp; 🌟🌟🌟 <br> -- <br> --|
+| Java / Spring &nbsp; ⭐⭐⭐ &nbsp;&nbsp; <br> Spring Data JPA &nbsp; ⭐⭐ <br> SQL &nbsp; ⭐⭐⭐ <br> Python / Django &nbsp; ⭐⭐ <br> Tableau &nbsp; ⭐⭐  | 책임감 &nbsp; 🌟🌟🌟🌟 <br> 커뮤니케이션 &nbsp; 🌟🌟🌟🌟 <br> 리더쉽 &nbsp; 🌟🌟🌟 <br> -- <br> --|
 
 ## 👩🏻‍💻 Projects
 <!-- 프로젝트 요약 *****
@@ -26,7 +26,7 @@
 |-------------|-----------------|
 | weSync <br> 2024.04 <br> ~ 2024.05 | 🎙️ 온라인 아카펠라 팀 연습 플랫폼 <br> <br> <br> |
 | AI Baseball<br>Clips (ABC) <br> 2024.01 <br> ~ 2024.02 | ⚾ 야구 하이라이트 자동생성 프로그램 <br> <br> <br> |
-| 물어봐종 <br> 2024.02 <br> ~ 2024.03 | 🐟 수산시장 이용 도우미 <br> ❓ 배경 <br> &nbsp; 1. 흥정에 대한 부정적 인식 - 보통▪부정적 60% 이상 <br> &nbsp; 2. 수산물 가격에 대한 낮은 신뢰 수준 - 보통▪부정적 80% 이상 <br> 💡 목표 <br> &nbsp; Ⅰ. 수산시장 이용이 익숙하지 않은 사람들의 어종 및 시세 파악 어려움을 해소 <br> &nbsp; Ⅱ. 정보를 교환하는 편의를 제공 <br> ✅ 맡은 역할 <br> &nbsp; a. JPA 상속관계 매핑을 적용한 Entity 개발 <br> &nbsp; b. 어노테이션을 활용한 JPA Soft Delete 구현 <br> &nbsp; c. 카카오 Oauth 로그인 구현 <br> &nbsp; d. 회원 도메인 개발 <br> 💥 이슈 <br> &nbsp; ㄱ. Kakao redirectUrl 수정 과정에서 배포 서버의 프런트 환경 변수만 변경하고 <br> &nbsp; 백엔드 환경 변수를 변경하지 않아 에러 발생 <br> ➡️ 프론트, 백엔드 각각 로컬에서 재테스트 후 문제없자 배포서버의 로그 확인하여 디버깅 
+| [물어바종](https://github.com/diarlee/FishFinder) <br> 2024.02 <br> ~ 2024.03 <br> | 🐟 수산시장 이용 도우미 <br> ❓ 배경 <br> &nbsp; 1. 흥정에 대한 부정적 인식 - 보통▪부정적 60% 이상 <br> &nbsp; 2. 수산물 가격에 대한 낮은 신뢰 수준 - 보통▪부정적 80% 이상 <br> 💡 목표 <br> &nbsp; Ⅰ. 수산시장 이용이 익숙하지 않은 사람들의 어종 및 시세 파악 어려움을 해소 <br> &nbsp; Ⅱ. 정보를 교환하는 편의를 제공 <br> ✅ 맡은 역할 <br> &nbsp; a. JPA 상속관계 매핑을 적용한 Entity 개발 <br> &nbsp; b. 어노테이션을 활용한 JPA Soft Delete 구현 <br> &nbsp; c. 카카오 Oauth 로그인 구현 <br> &nbsp; d. 회원 도메인 개발 <br> 💥 이슈 <br> &nbsp; ㄱ. Kakao redirectUrl 수정 과정에서 배포 서버의 프런트 환경 변수만 변경하고 <br> &nbsp; 백엔드 환경 변수를 변경하지 않아 에러 발생 <br> ➡️ 프론트, 백엔드 각각 로컬에서 재테스트 후 문제없자 배포서버의 로그 확인하여 디버깅 
 
 
 ## 🔎 Profile
