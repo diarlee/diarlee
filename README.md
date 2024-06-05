@@ -4,45 +4,37 @@
 
 ## 💫 About me
 
+## ⚒️ Skills
+<!-- 기술 역량에 대한 근거 적기
+- 문제풀이, or 프레임워크에 대한 개념 등을 근거로 제시 -->
+<!-- 그룹 묶기 -->
+|<b>Hard</b>|<b>Soft</b>|
+|-------------|-----------------|
+| Java / Spring (Boot) &nbsp; ⭐⭐⭐ &nbsp;&nbsp; <br> Spring Data JPA &nbsp; ⭐⭐ <br> SQL &nbsp; ⭐⭐⭐ <br> Python / Django &nbsp; ⭐⭐ <br> Tableau &nbsp; ⭐⭐  | 책임감 &nbsp; 🌟🌟🌟🌟 <br> 커뮤니케이션 &nbsp; 🌟🌟🌟🌟 <br> 리더쉽 &nbsp; 🌟🌟🌟 <br> -- <br> --|
+
+## 👩🏻‍💻 Projects
+<!-- 프로젝트 요약 *****
+- 프로젝트 설명
+- 기획 의도(하게된 이유),,, 데이터 기반!
+- 내 기여
+- 도전적인 부분들 (중요)
+- 해결 과정 (중요)
+=> 이 과정에서의 사고과정 + 방향, 기술 등 선택에 대한 근거를 어필하는게 포인트 -->
+
+<!-- 하기 싫었던 일을 하게된 상황에 대해서도 설명해주면 좋음 -->
+|    Name     |    Descrption   |
+|-------------|-----------------|
+| weSync <br> 2024.04 <br> ~ 2024.05 | 🎙️ 온라인 아카펠라 팀 연습 플랫폼 <br> <br> <br> |
+| AI Baseball<br>Clips (ABC) <br> 2024.01 <br> ~ 2024.02 | ⚾ 야구 하이라이트 자동생성 프로그램 <br> <br> <br> |
+| 물어봐종 <br> 2024.02 <br> ~ 2024.03 | 🐟 수산시장 이용 도우미 <br> ❓ 배경 <br> &nbsp; 1. 흥정에 대한 부정적 인식 - 보통▪부정적 60% 이상 <br> &nbsp; 2. 수산물 가격에 대한 낮은 신뢰 수준 - 보통▪부정적 80% 이상 <br> 💡 목표 <br> &nbsp; Ⅰ. 수산시장 이용이 익숙하지 않은 사람들의 어종 및 시세 파악 어려움을 해소 <br> &nbsp; Ⅱ. 정보를 교환하는 편의를 제공 <br> ✅ 맡은 역할 <br> &nbsp; a. JPA 상속관계 매핑을 적용한 Entity 개발 <br> &nbsp; b. 어노테이션을 활용한 JPA Soft Delete 구현 <br> &nbsp; c. 카카오 Oauth 로그인 구현 <br> &nbsp; d. 회원 도메인 개발 <br> 💥 이슈 <br> &nbsp; ㄱ. Kakao redirectUrl 수정 과정에서 배포 서버의 프런트 환경 변수만 변경하고 <br> &nbsp; 백엔드 환경 변수를 변경하지 않아 에러 발생 <br> ➡️ 프론트, 백엔드 각각 로컬에서 재테스트 후 문제없자 배포서버의 로그 확인하여 디버깅 
+
 
 ## 🔎 Profile
 🎓 인하대학교 경제학/소프트웨어융합공학 &nbsp; 2017.02 - 2023.08
 
 📖 삼성 청년 SW 아카데미(SSAFY) &nbsp; 2023.07 - 2024.06
 
-## ⚒️ Skills
-<!-- 기술 역량에 대한 근거 적기
-- 문제풀이, or 프레임워크에 대한 개념 등을 근거로 제시 -->
-<table style="width: 100%;">
-    <tr>
-        <td style="vertical-align: top; text-align: left; width: 50%;">
-            <p style="font-size: 16px"><b>Hard Skills</b></p>
-                <span>Java / Spring (Boot) &nbsp; ⭐⭐⭐⭐</span><br>
-                <span>Spring Data JPA &nbsp; ⭐⭐⭐</span><br>
-                <span>SQL &nbsp; ⭐⭐⭐</span><br>
-                <span>Python / Django &nbsp; ⭐⭐</span><br>
-                <span>Tableau &nbsp; ⭐⭐</span>
-        </td>
-        <td style="vertical-align: top; text-align: left; width: 50%;">
-            <p style="font-size: 16px"><b>Soft Skills</b></p>
-                <span>책임감 &nbsp; 🌟🌟🌟🌟</span><br>
-                <span>커뮤니케이션 &nbsp; 🌟🌟🌟🌟</span><br>
-                <span>리더쉽 &nbsp; 🌟🌟🌟</span><br>
-                <span>--</span><br>
-                <span>--</span>
-        </td>
-    </tr>
-</table>
-
-## 👩🏻‍💻 Projects
-<!-- 프로젝트 요약 *****
-- 프로젝트 설명
-- 기획 의도(하게된 이유)
-- 내 기여
-- 도전적인 부분들 (중요)
-- 해결 과정 (중요)
-=> 이 과정에서의 사고과정 + 방향, 기술 등 선택에 대한 근거를 어필하는게 포인트 -->
-
+## 🏅 Awards
 
 <!--
 **diarlee/diarlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
