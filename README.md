@@ -24,9 +24,9 @@
 <!-- 하기 싫었던 일을 하게된 상황에 대해서도 설명해주면 좋음 -->
 |    Name     |    Descrption   |
 |-------------|-----------------|
-| weSync <br> 2024.04 <br> ~ 2024.05 | 🎙️ 온라인 아카펠라 팀 연습 플랫폼 <br> <br> <br> |
-| AI Baseball<br>Clips (ABC) <br> 2024.01 <br> ~ 2024.02 | ⚾ 야구 하이라이트 자동생성 프로그램 <br> <br> <br> |
-| [물어바종](https://github.com/diarlee/FishFinder) <br> 2024.02 <br> ~ 2024.03 <br> | 🐟 수산시장 이용 도우미 <br> ❓ 배경 <br> &nbsp; 1. 흥정에 대한 부정적 인식 - 보통▪부정적 60% 이상 <br> &nbsp; 2. 수산물 가격에 대한 낮은 신뢰 수준 - 보통▪부정적 80% 이상 <br> 💡 목표 <br> &nbsp; Ⅰ. 수산시장 이용이 익숙하지 않은 사람들의 어종 및 시세 파악 어려움을 해소 <br> &nbsp; Ⅱ. 정보를 교환하는 편의를 제공 <br> ✅ 맡은 역할 <br> &nbsp; a. JPA 상속관계 매핑을 적용한 Entity 개발 <br> &nbsp; b. 어노테이션을 활용한 JPA Soft Delete 구현 <br> &nbsp; c. 카카오 Oauth 로그인 구현 <br> &nbsp; d. 회원 도메인 개발 <br> 💥 이슈 <br> &nbsp; ㄱ. Kakao redirectUrl 수정 과정에서 배포 서버의 프런트 환경 변수만 변경하고 <br> &nbsp; 백엔드 환경 변수를 변경하지 않아 에러 발생 <br> ➡️ 프론트, 백엔드 각각 로컬에서 재테스트 후 문제없자 배포서버의 로그 확인하여 디버깅 
+| weSync <br> 2024.04 <br> ~ 2024.05 | 🎙️ 온라인 아카펠라 팀 연습 플랫폼 <br> ❓ 배경 <br> &nbsp; 1. <br> 💡 목표 <br> &nbsp;Ⅰ. <br> ✅ 맡은 역할 <br> &nbsp; a. <br> 💥 이슈 <br> &nbsp; ㄱ. <br> ➡️|
+| [AI BaseBall Clips(ABC)](https://github.com/diarlee/ABC) <br> 2024.01 <br> ~ 2024.02 | ⚾ 야구 하이라이트 자동생성 프로그램 <br> ❓ 배경 <br> &nbsp; - 하이라이트의 정의 : 스포츠 등에서, 가장 중요하거나 흥미 있는 장면 <br> &nbsp; - 사람마다 하이라이트의 기준이 다를 수 있음 <br> &nbsp; - 야구팀을 응원하는 이유 중 '특정 선수의 팬이여서' 16.5% <br> 💡 목표 <br> &nbsp; Ⅰ. 중계영상에서 자동으로 선수별 하이라이트를 제공 <br> &nbsp; Ⅱ. 이닝별 경기정보를 함께 제공 <br> ✅ 맡은 역할 <br> &nbsp; [백엔드 개발 및 팀장] <br> &nbsp; a. OCR을 활용하여 동영상에서 타석별 구분 <br> &nbsp; b. Python 라이브러리로 동영상 타석별 편집 <br> &nbsp; c. Redis 메세지 통신 구현 <br> &nbsp; d. Jira로 팀 작업 관리 <br> 💥 이슈 <br> &nbsp; ㄱ. <br> ➡️|
+| [물어바종](https://github.com/diarlee/FishFinder) <br> 2024.02 <br> ~ 2024.03 <br> | 🐟 수산시장 이용 도우미 <br> ❓ 배경 <br> &nbsp; 1. 흥정에 대한 부정적 인식 - 보통▪부정적 60% 이상 <br> &nbsp; 2. 수산물 가격에 대한 낮은 신뢰 수준 - 보통▪부정적 80% 이상 <br> 💡 목표 <br> &nbsp; Ⅰ. 수산시장 이용이 익숙하지 않은 사람들의 어종 및 시세 파악 어려움을 해소 <br> &nbsp; Ⅱ. 정보를 교환하는 편의를 제공 <br> ✅ 맡은 역할 <br> &nbsp; [백엔드 개발] <br> &nbsp; a. JPA 상속관계 매핑을 적용한 Entity 개발 <br> &nbsp; b. 어노테이션을 활용한 JPA Soft Delete 구현 <br> &nbsp; c. 카카오 Oauth 로그인 구현 <br> &nbsp; d. 회원 도메인 개발 <br> 💥 이슈 <br> &nbsp; ㄱ. Kakao redirectUrl 수정 과정에서 배포 서버의 프런트 환경 변수만 변경하고 <br> &nbsp; 백엔드 환경 변수를 변경하지 않아 에러 발생 <br> ➡️ 프론트, 백엔드 각각 로컬에서 재테스트 후 문제없자 배포서버의 로그 확인하여 디버깅 
 
 
 ## 🔎 Profile
