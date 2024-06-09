@@ -3,7 +3,7 @@
  <!-- jd보고 회사가 원하는 keyword뽑아서 슬로건 작성 -->
 
 ## 💫 About me
-"<span style="color:blue"><b>Action cures fear</b></span>"<br>
+"<span style="color:blue;"><b>Action cures fear</b></span>"<br>
 두려운건 해보지 않아서다. 먼저 두려움을 가지지 말자. 의심하지말고 실천해보자! 
 
 ## ⚒️ Skills
