@@ -12,7 +12,7 @@
 <!-- 그룹 묶기 -->
 |<b>Hard</b>|<b>Soft</b>|
 |-------------|-----------------|
-| Java / Spring &nbsp; ⭐⭐⭐ &nbsp;&nbsp; <br> Spring Data JPA &nbsp; ⭐⭐ <br> SQL &nbsp; ⭐⭐⭐ <br> Python / Django &nbsp; ⭐⭐ <br> Tableau &nbsp; ⭐⭐  | 책임감 &nbsp; 🌟🌟🌟🌟 <br> 커뮤니케이션 &nbsp; 🌟🌟🌟🌟 <br> 리더쉽 &nbsp; 🌟🌟🌟 <br> -- <br> --|
+| Java / Spring &nbsp; ⭐⭐⭐ &nbsp;&nbsp; <br> Spring Data JPA &nbsp; ⭐⭐ <br> SQL &nbsp; ⭐⭐⭐ <br> Python / FastAPI &nbsp; ⭐⭐ <br> Tableau &nbsp; ⭐⭐  | 책임감 &nbsp; 🌟🌟🌟🌟 <br> 커뮤니케이션 &nbsp; 🌟🌟🌟🌟 <br> 리더쉽 &nbsp; 🌟🌟🌟 <br> -- <br> --|
 
 ## 👩🏻‍💻 Projects
 <!-- 프로젝트 요약 *****
